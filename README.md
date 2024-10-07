@@ -35,9 +35,9 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 #### A little more about me
 ```javascript
-const Ridham = {
+const Kens = {
   pronouns: "He" | "Him",
-  age: 15 ,
+  age: 23,
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python" ],
   technologies: {
